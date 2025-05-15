@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "cypress": "^14.3.3",
+    "cypress-wait-for-stable-dom": "^0.1.0"
+  },
+  "dependencies": {
+    "cypress-iframe": "^1.0.1"
+  }
+}
